@@ -1,0 +1,27 @@
+body {
+    background-color: tomato;
+    
+}
+
+
+.header {
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 32px;
+}
+
+img{
+    height:auto ;
+    width: 400px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .links{
+    margin: auto;
+    width: 25%;
+    /* border: 50px solid green; */
+    padding: 10px; 
+
+ }
